@@ -1,0 +1,6 @@
+{
+  "name": "statusline-toggle",
+  "owner": { "name": "Miaaanz" },
+  "description": "Toggle the Claude Code status line with /sl",
+  "plugins": [{ "name": "statusline-toggle", "source": "./" }]
+}
